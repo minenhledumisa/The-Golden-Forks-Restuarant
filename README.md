@@ -84,13 +84,3 @@ The project was developed using TypeScript and focusing on the app’s core func
 • Improved app responsiveness and performance, ensuring smooth operation across different devices.
 
 
-## References
-• React Native Documentation. (2024). Components and APIs. Meta Platforms. Available at: https://reactnative.dev/docs/components-and-apis
-
-• TypeScript Handbook. (2024). TypeScript for JavaScript Developers. Microsoft. Available at: https://www.typescriptlang.org/docs/
-
-• Expo Documentation. (2024). Using Expo for React Native Development. Available at: https://docs.expo.dev/
-
-• W3Schools. (2024). CSS and Design Guidelines. Available at: https://www.w3schools.com/css/
-
-• FreeCodeCamp. (2024). React Native Navigation and App Structure. Available at: https://www.freecodecamp.org/news/tag/react-native/
