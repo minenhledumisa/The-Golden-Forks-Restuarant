@@ -49,12 +49,6 @@ The project was developed using TypeScript and focusing on the app’s core func
    <img src="./assets/filterscreen.jpg" alt="Filter Screen" width="150"> 
 
 
-
-**Personal Reflection**
-
-During this phase, I strengthened my technical knowledge of React Native, TypeScript, and screen navigation. I learned to implement interactive features, manage state effectively, and validate user input to prevent errors.
-I also improved the visual design and usability of the app, focusing on layout alignment, readability, and consistent color themes. This part of the project helped me understand how to combine both coding logic and interface design to create a user-friendly mobile application.
-
 ## Changelog
 
 • Enlarged and repositioned the button on the Welcome Screen to the bottom for a more balanced layout.
